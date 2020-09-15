@@ -1,0 +1,26 @@
+@media only screen and (max-width: 600px) {
+    .flex-column {
+        width: 100%;
+    }
+
+    .section-two-flex{
+        justify-content: center;
+    }
+
+    .section-tittle {
+        font-size: 25px;
+        margin: 20px 0;
+    }
+
+    .popular-tools{
+        padding: 0 0px;
+        .tour-boxes {
+            margin-bottom: 20px; 
+        }
+    }
+
+    .section {
+        padding: 20px 20px;
+    }
+
+}
